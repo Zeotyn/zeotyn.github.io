@@ -29,8 +29,6 @@ permalink: none
 # Build settings
 markdown: kramdown
 
-theme: athene
-
 gems:
   - jekyll-feed
 exclude:
