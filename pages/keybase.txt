@@ -1,0 +1,57 @@
+---
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/zeotyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zeotyn.de
+  * I am zeotyn (https://keybase.io/zeotyn) on keybase.
+  * I have a public key ASDVHsvRCmQy_CYPwjxKzrdz9rYRLJBQoilgOhY2ocUm-go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014a3dc2e51695fe85acb05ec8b9b3e4f4b19cb024908d8afd05471c2520cd34ce0a",
+            "host": "keybase.io",
+            "kid": "0120d51ecbd10a6432fc260fc23c4aceb773f6b6112c9050a229603a1636a1c526fa0a",
+            "uid": "62dc5cd153c62e30e5872a86f555dc19",
+            "username": "zeotyn"
+        },
+        "service": {
+            "hostname": "zeotyn.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492785290,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492785268,
+        "hash": "acf41dc8022df51835f068db0ff0c6993b80818e6037aff8e25da12fdc74175b1c810fbf5ecb842cf0369ba5761eedd3143e74dbcef7669d97ae4d8c561de853",
+        "seqno": 1031607
+    },
+    "prev": "7e06f9d730680e9886aa0e73d3b2382b52d5011b5ca335fb5dac317d0dfeb14d",
+    "seqno": 30,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1R7L0QpkMvwmD8I8Ss63c/a2ESyQUKIpYDoWNqHFJvoKp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNGEzZGMyZTUxNjk1ZmU4NWFjYjA1ZWM4YjliM2U0ZjRiMTljYjAyNDkwOGQ4YWZkMDU0NzFjMjUyMGNkMzRjZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDUxZWNiZDEwYTY0MzJmYzI2MGZjMjNjNGFjZWI3NzNmNmI2MTEyYzkwNTBhMjI5NjAzYTE2MzZhMWM1MjZmYTBhIiwidWlkIjoiNjJkYzVjZDE1M2M2MmUzMGU1ODcyYTg2ZjU1NWRjMTkiLCJ1c2VybmFtZSI6Inplb3R5biJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiemVvdHluLmRlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5Mjc4NTI5MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkyNzg1MjY4LCJoYXNoIjoiYWNmNDFkYzgwMjJkZjUxODM1ZjA2OGRiMGZmMGM2OTkzYjgwODE4ZTYwMzdhZmY4ZTI1ZGExMmZkYzc0MTc1YjFjODEwZmJmNWVjYjg0MmNmMDM2OWJhNTc2MWVlZGQzMTQzZTc0ZGJjZWY3NjY5ZDk3YWU0ZDhjNTYxZGU4NTMiLCJzZXFubyI6MTAzMTYwN30sInByZXYiOiI3ZTA2ZjlkNzMwNjgwZTk4ODZhYTBlNzNkM2IyMzgyYjUyZDUwMTFiNWNhMzM1ZmI1ZGFjMzE3ZDBkZmViMTRkIiwic2Vxbm8iOjMwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCcR5sJCef+QdiQTJWwhQkx4xqzr3lWIPDLAGNGVAbU/hQPpO2nXYpDDCnxHE+FAEdi0epshQOrSBO108wzgyg2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDHqY+faPOFFSu2wQPw7V1ZAVIHYvbQHPt9eY8M/roqK6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zeotyn
+
+==================================================================
